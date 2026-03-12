@@ -1,0 +1,13 @@
+com\example\demo\controller\HelloController.class
+com\example\demo\DemoApplication.class
+com\example\demo\entity\User.class
+com\example\demo\service\UserService.class
+com\example\demo\vo\UserVO.class
+com\example\demo\config\MyBatisPlusConfig.class
+com\example\demo\service\MyService.class
+com\example\demo\entity\BaseEntity.class
+com\example\demo\controller\UserController.class
+com\example\demo\mapper\UserMapper.class
+com\example\demo\mapper\MyBaseMapper.class
+com\example\demo\service\impl\MyServiceImpl.class
+com\example\demo\service\impl\UserServiceImpl.class
