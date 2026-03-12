@@ -2,18 +2,18 @@
 demo
 
 ## 环境
-windows 11
-jdk 17
-maven 3.9.13
+- windows 11
+- jdk 17
+- maven 3.9.13
 
 ## 框架
-Spring Boot 3.4.2
-Spring Boot Web
-Spring Boot Test
-Lombok
-Mybatis Plus 3.5.6
-Mysql 8.0.33
-Hutool 5.8.24
+- Spring Boot 3.4.2
+- Spring Boot Web
+- Spring Boot Test
+- Lombok
+- Mybatis Plus 3.5.6
+- Mysql 8.0.33
+- Hutool 5.8.24
 
 ## 架构
 标准分层
